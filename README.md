@@ -16,7 +16,7 @@
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
 
-* 🔭 I’m currently working on My Personal Portfolio Website.
+* 🔭 I’m currently working on DSA 
 * 🌱 I’m currently learning DSA & Web Designing 
 * 🤝 I'm Looking for help with Django
 * 🌌 Ask me about anything, I am happy to help
