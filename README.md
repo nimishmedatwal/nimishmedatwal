@@ -47,7 +47,7 @@ Tools I use:man_technologist: <br>
 
 ## Some Stats:
 <p align="center">
-<a href="https://github.com/mannadamay12">
+<a href="https://github.com/nimishmedatwal>
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=nimishmedatwal&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimishmedatwal&layout=compact&theme=omni&hide_border=true&hide_title=true" />
 <br>
@@ -55,7 +55,7 @@ Tools I use:man_technologist: <br>
 <img alt="Nimish's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=nimishmedatwal&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
 </a>
 </p>
-<p align="center"><a href="https://github.com/nimishmedatwal"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=nimishmedatwal&show_icons=true&theme=radical" alt="mannadamay12"></a></p>
+<p align="center"><a href="https://github.com/nimishmedatwal"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=nimishmedatwal&show_icons=true&theme=radical" alt="nimishmedatwal"></a></p>
 
 <p align="center">
     :arrow_down: Scroll down to see my top repositories :arrow_down:
