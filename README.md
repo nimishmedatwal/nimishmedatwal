@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nimishmedatwal/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medatwalnimish@gmail.com)
 
-<img align="right" title="Adamay Mann" alt="Adamay Mann" width="400" src="./logos/animation.gif" />
+<img align="right" title="Nimish Medatwal" alt="Nimish Medatwal" width="400" src="./logos/animation.gif" />
 
 <h3 style=>
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
@@ -49,8 +49,8 @@ Tools I use:man_technologist: <br>
 ## Some Stats:
 <p align="center">
 <a href="https://github.com/mannadamay12">
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=mannadamay12&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannadamay12&layout=compact&theme=omni&hide_border=true&hide_title=true" />
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=nimishmedatwal&theme=omni&hide_border=true&include_all_commits=true&hide_title=true" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimishmedatwal&layout=compact&theme=omni&hide_border=true&hide_title=true" />
 <br>
 <br>
 <img alt="Nimish's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=nimishmedatwal&bg_color=191621&color=e4dc87&line=cc70a9&point=ffffff&hide_border=true">
