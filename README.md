@@ -17,12 +17,11 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 </h3>
 
 * 🔭 I’m currently working on My Personal Portfolio Website.
-* 🌱 I’m currently learning DSA & Web Designing
-* 👯 I’m looking to collaborate on Full Stack Web Development 
-* 🤝 I'm Looking for help with DSA
+* 🌱 I’m currently learning DSA & Web Designing 
+* 🤝 I'm Looking for help with Django
 * 🌌 Ask me about anything, I am happy to help
 * 😄 Pronouns: He/Him 
-* ⚡ Fun fact: I play piano 🤪 
+* ⚡ Fun fact: I play piano and love to read novels  
 
 <h3>
 Programming Languages I work with:rocket: <br>
