@@ -11,7 +11,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medatwalnimish@gmail.com)
 
 <img align="right" title="Nimish Medatwal" alt="Nimish Medatwal" width="400" src="./logos/animation.gif" />
-
+<h3><a href="https://www.nimish.ninja" target="_blank">Click here</a> to see my Portfolio Website</h3>
+<h3><a href="https://drive.google.com/file/d/12OQ22QPYOZ3hbO5tLMy5Wg8rH0PAEBAt/view?usp=sharing" target="_blank">Click here</a> to see my Resume</h3>
 <h3 style=>
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 </h3>
