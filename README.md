@@ -24,7 +24,7 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 * ⚡ Fun fact: I play piano and love to read novels  
 
 <h3>
-Programming Languages I work with:rocket: <br>
+Programming Languages I work with :rocket: <br>
 </h3>
 <img align="left" title="Python" alt="python" width="26px" src="./logos/python.svg" />
 <img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
@@ -35,7 +35,7 @@ Programming Languages I work with:rocket: <br>
 <br>
 
 <h3>
-Tools I use:man_technologist: <br>
+Tools I use :man_technologist: <br>
 </h3>
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="./logos/visualstudiocode.svg" />
 <img align="left" title="Discord" alt="Discord" width="26px" src="./logos/discord.svg" />
